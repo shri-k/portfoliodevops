@@ -1,0 +1,1 @@
+Hello, this is the repo for my dockerized flask app which is connected to my studentsystem database. Soon to be deployed on an EC2 instance.
